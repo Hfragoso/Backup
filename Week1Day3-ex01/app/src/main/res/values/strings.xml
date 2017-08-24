@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Week1Day3-ex01</string>
+    <string name="lbl_hello">Hello World!!</string>
+    <string name="lbl_night">Good night world!</string>
+    <string name="lbl_btn_second_activity">START SECOND ACTIVITY</string>
+</resources>

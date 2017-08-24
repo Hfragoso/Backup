@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">W3d2-ex01</string>
+    <string name="lbl_hello_fragment_b">Hello fragment B</string>
+    <string name="lbl_hello_fragment_a">Hello fragment A</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

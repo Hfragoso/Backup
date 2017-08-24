@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">W2d3-ex01</string>
+    <string name="lbl_btn_save_to_file">SAVE TO FILE</string>
+    <string name="lbl_btn_read_file">READ FILE</string>
+    <string name="lbl_result_holder">File content: %1$s</string>
+    <string name="lbl_input">Input here</string>
+</resources>
